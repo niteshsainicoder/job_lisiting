@@ -48,7 +48,12 @@ main/
    ```
    The backend will start at [http://localhost:5000](http://localhost:5000).
 
----
+   #### if you want to check the deployed backend , hit this api using postman or any other tool
+   ```bash
+     https://job-lisiting.onrender.com/api/jobs
+   ```
+   This will return a list of job listings.
+
 
 ### 🎨 Frontend Setup
 
